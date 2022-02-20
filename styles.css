@@ -642,6 +642,13 @@ hr {
         padding: 20px;
         margin-top: 20px;
       }
+      .contact-me div {
+          width: 60%;
+          margin: 0 auto;
+      }
+      .contact-me form button {
+          align-self: center;
+      }
     
 }
 
